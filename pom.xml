@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-             http://maven.apache.org/maven-v4_0_0.xsd">
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>io.goong.goong_map_sdk</groupId>
-    <artifactId>goong_sdk</artifactId>
-    <version>1.1</version>
-    <dependencies>
-        <dependency>
-            <groupId>com.github.goong-io</groupId>
-            <artifactId>goong-map-android-sdk</artifactId>
-            <version>LATEST</version>
-        </dependency>
-        <dependency>
-            <groupId>org.maplibre.gl</groupId>
-            <artifactId>android-sdk</artifactId>
-            <version>11.0.0</version>
-        </dependency>
-    </dependencies>
-</project>
+<!--<?xml version="1.0" encoding="iso-8859-1"?>-->
+<!--<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"-->
+<!--    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0-->
+<!--             http://maven.apache.org/maven-v4_0_0.xsd">-->
+<!--    <modelVersion>4.0.0</modelVersion>-->
+<!--    <groupId>io.goong.goong_map_sdk</groupId>-->
+<!--    <artifactId>goong_sdk</artifactId>-->
+<!--    <version>1.1</version>-->
+<!--    <dependencies>-->
+<!--        <dependency>-->
+<!--            <groupId>com.github.goong-io</groupId>-->
+<!--            <artifactId>goong-map-android-sdk</artifactId>-->
+<!--            <version>LATEST</version>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>org.maplibre.gl</groupId>-->
+<!--            <artifactId>android-sdk</artifactId>-->
+<!--            <version>11.0.0</version>-->
+<!--        </dependency>-->
+<!--    </dependencies>-->
+<!--</project>-->
