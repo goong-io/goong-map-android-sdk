@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.goong.goong_map_sdk</groupId>
     <artifactId>goong_sdk</artifactId>
-    <version>1.6.2</version>
+    <version>1.7</version>
     <dependencies>
         <dependency>
             <groupId>org.maplibre.gl</groupId>
